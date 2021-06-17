@@ -1,0 +1,2 @@
+D:\nauka\c++\source\repos\TheGame\Debug\TheGame.exe
+D:\nauka\c++\source\repos\TheGame\Debug\TheGame.pdb
